@@ -7,7 +7,6 @@
 In this investigation, I wanted to explore when are most trips taken in term of time of day, day of week or month, I also wanted to explore trip duration regarding the same last time features, and see if it is influenced by if a user is a member or a casual customer.
 
 ### Dataset
-
 There are 4702822 trip on the dataset with 13 features 
 ( trip_duration, started_at, ended_at, start_station_id, start_station_name, 
 start_lat, start_lng, start_lng, end_station_id, end_station_name, end_lat, 
@@ -24,7 +23,6 @@ set some feature datatypes and finally make a columns for day of time,
 day of week and month of year.
 
 ### Summary of Findings
-
 In the exploration, the first notification is that the trip duration followed a normal 
 distribution only if we make an exponential transformation, that's why every visualisation 
 for trip duration was done with an exponential transformation. After that a distribution 
@@ -73,19 +71,16 @@ A/B tests are very commonly performed by data analysts and data scientists. It i
 In this notebook, an A/B test is runned by an e-commerce website, the goal is to know if the company should implement the new page , keep the old page or run the expriment longer to make their decision
 
 ### Datasets
-
 We have two datasets for this project: ab_data and countries
 ab_data: comports 294478 rows with 5 features ( user_id, timestamp, group, landing_page, and converted)
 countries: user_id, country
 
 ### In this notebook the study is done on three parts:
-
-Part I: for statistical exploration
-Part II: A/B Test
-Part III: A regression approach
+<br> Part I: for statistical exploration
+<br> Part II: A/B Test
+<br> Part III: A regression approach
 
 ### Summary of findings
-
 pval>0.05, zscore<1.64
 nb: 1.64 is the critical value for  a=0.05 
 conclusion: we fail to reject the nul hypothesis, so the company should keep should keep the old page.
@@ -99,13 +94,13 @@ conclusion: we fail to reject the nul hypothesis, so the company should keep sho
 In this project a dataset named 'Medical Appointment No Shows' is investigated.
 <br>This dataset contains information from 100k medical appointments in Brazil in the 2015 and 2016, the main aspect in this dataset is if a patient show up for its appointment or not.
 <br>The main question in this investigation is : What factors are important for us to know in order to predict if a patient will show up for their scheduled appointment
+
 ### Conclusion
 According to my investigation there is no way to predict efficiently if a patient will show up or not.
 <br>To answer to the main question wich asks to determine the most important feature to predict if a patient will show up or not:
 Except the PatientId and the AppointmentID, each feature can lightly help to do the prediction (but with a very low accuracy)
 
 ### Limitation
-
 <br>The dataset is limited in term of quantity of data, with data of more years the investigation can be more efficient
 <br><br>Tools: Python, Pandas, Jupyter Notebook
 
