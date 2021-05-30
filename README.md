@@ -3,10 +3,11 @@
 
 ## [Project 1: Communicate Data Findings](https://github.com/Mehdi-Rh/Communicate_Data_Findings)
 
-## Dataset
+### Investigation Overview
+In this investigation, I wanted to explore when are most trips taken in term of time of day, day of week or month, I also wanted to explore trip duration regarding the same last time features, and see if it is influenced by if a user is a member or a casual customer.
 
+### Dataset
 
- 
 There are 4702822 trip on the dataset with 13 features 
 ( trip_duration, started_at, ended_at, start_station_id, start_station_name, 
 start_lat, start_lng, start_lng, end_station_id, end_station_name, end_lat, 
@@ -22,7 +23,7 @@ droping erronious data (some observations have a negative trip duration),
 set some feature datatypes and finally make a columns for day of time, 
 day of week and month of year.
 
-## Summary of Findings
+### Summary of Findings
 
 In the exploration, the first notification is that the trip duration followed a normal 
 distribution only if we make an exponential transformation, that's why every visualisation 
