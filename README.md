@@ -106,7 +106,7 @@ Except the PatientId and the AppointmentID, each feature can lightly help to do 
 
 ![](/images/p1.png)
 
-## Project 5: Sales insights analysis in PowerBI
+## [Project 5: Sales insights analysis in PowerBI](https://github.com/Mehdi-Rh/Dashboards)
 
 This project is based on a computer hardware business which is facing challenges in dynamically changing market. Sales director decides to invest in data analysis project and he would like to build power BI dashboard that can give him real time sales insights. 
 
