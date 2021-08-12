@@ -6,8 +6,8 @@
 ### Investigation Overview
 This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
 The objectives of this investigation are : 
-- explore when are most trips taken in term of time of day, day of week or month, 
-- explore trip duration regarding the same last time features, and see if it is influenced by if a user is a member or a casual customer.
+- Explore when are most trips taken in term of time of day, day of week or month.
+- Explore trip duration regarding the same last time features, and see if it is influenced by if a user is a member or a casual customer.
 
 ### Dataset
 There are 4702822 trip on the dataset with 13 features 
