@@ -55,7 +55,12 @@ total number of trips.
 
 ![](/images/p4.png)
 
-## [Project2: Gather, Wrangle and Analyse Data](https://github.com/Mehdi-Rh/Wrangle_Analyse_Data)
+## [Project 2: web scrape amazon product list ](https://github.com/Mehdi-Rh/web_scraping_amazon_pages)
+In this project I will scrape list of products from many pages with their details: description, price, rating, rating_count
+
+<br>In this project I've used selenium to scrape the rating because it's a hidden field until we click on it.
+
+## [Project 3: Gather, Wrangle and Analyse Data](https://github.com/Mehdi-Rh/Wrangle_Analyse_Data)
 
 This project is an investigation done on a dataset based on data gathered from the twitter API from
 WeRateDog page, this is a page that rates people’s dog with a humorous comment about
@@ -68,7 +73,7 @@ the most influencing feedbacks.
 
 ![](images/p3.png)
 
-## [Project 3: Analyse A/B test results](https://github.com/Mehdi-Rh/Analyse_AB_Test_Results)
+## [Project 4: Analyse A/B test results](https://github.com/Mehdi-Rh/Analyse_AB_Test_Results)
 
 A/B tests are very commonly performed by data analysts and data scientists. It is important that you get some practice working with the difficulties of these
 In this notebook, an A/B test is runned by an e-commerce website, the goal is to know if the company should implement the new page , keep the old page or run the expriment longer to make their decision
@@ -92,7 +97,7 @@ conclusion: we fail to reject the nul hypothesis, so the company should keep sho
 
 ![](/images/p2.png)
 
-## [Project 4:  Investigate-a-DataSet](https://github.com/Mehdi-Rh/Investigate-a-DataSet)
+## [Project 5:  Investigate-a-DataSet](https://github.com/Mehdi-Rh/Investigate-a-DataSet)
 
 In this project a dataset named 'Medical Appointment No Shows' is investigated.
 <br>This dataset contains information from 100k medical appointments in Brazil in the 2015 and 2016, the main aspect in this dataset is if a patient show up for its appointment or not.
@@ -109,9 +114,11 @@ Except the PatientId and the AppointmentID, each feature can lightly help to do 
 
 ![](/images/p1.png)
 
-## [Project 5: Sales insights analysis in PowerBI](https://github.com/Mehdi-Rh/Dashboards)
+## [Project 6: Sales insights analysis in PowerBI](https://github.com/Mehdi-Rh/Dashboards)
 
-This project is based on a computer hardware business which is facing challenges in dynamically changing market. Sales director decides to invest in data analysis project and he would like to build power BI dashboard that can give him real time sales insights. 
+Objectif: build an interactif dashboard that show the company data in a very clear format to facilitate getting useful insight for better decision making  
+
+<br> This project is based on a computer hardware business which is facing challenges in dynamically changing market. Sales director decides to invest in data analysis project and he would like to build power BI dashboard that can give him real time sales insights. 
 
 <br> Once sales directory of atliQ hardware has decided to invest in data analysis project he will do a meeting with IT director, data analytics team to come up with a plan. They will use AIMS grid to define purpose and success criteria of this project.
 
