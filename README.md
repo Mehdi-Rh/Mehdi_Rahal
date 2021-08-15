@@ -56,9 +56,14 @@ total number of trips.
 ![](/images/p4.png)
 
 ## [Project 2: web scrape amazon product list ](https://github.com/Mehdi-Rh/web_scraping_amazon_pages)
+
 In this project I will scrape list of products from many pages with their details: description, price, rating, rating_count
 
-<br>In this project I've used selenium to scrape the rating because it's a hidden field until we click on it.
+In this project I've used selenium to scrape the rating because it's a hidden field until we click on it.
+
+<br><br>Tools: Python, Pandas, Selenium, VsCode
+
+![](images/amazon_web_scraping.jpg)
 
 ## [Project 3: Gather, Wrangle and Analyse Data](https://github.com/Mehdi-Rh/Wrangle_Analyse_Data)
 
